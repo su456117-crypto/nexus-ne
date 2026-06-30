@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: su456117-crypto/nexus-magazine
   branch: main
 
 media_folder: "images"
